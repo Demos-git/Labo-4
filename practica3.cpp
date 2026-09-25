@@ -6,6 +6,7 @@ using namespace std;
 int edad;
 
 int main (){
+    SetConsoleOutputCP(CP_UTF8);
 
     cout << "Ingrese su edad: ";
     cin >> edad;
